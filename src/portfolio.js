@@ -153,19 +153,7 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
-    {
-      role: "Fronrend Developer Intern",
-      
-      company: "Aspire Systems",
-      link:"http://www.aspiresys.com/",
-      
-      date: "August 2023 – October 2023 ",
-      desc: "Working with Real time projects",
-      descBullets: [
-        "Javascript Developer with front-end internship experience. I have experience building dynamic and responsive user interfaces using Javascript frameworks"
-
-      ]
-    },
+    
     {
       role: "Web Development Intern",
       
