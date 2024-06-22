@@ -100,7 +100,7 @@ const educationInfo = {
       duration: "June 2020 - May 2024",
       desc: "Worked in 3 projects, conducted 1 workshop and published 1 journal",
       descBullets: [
-        "CGPA :  8.76",
+        "CGPA :  8.7",
         "Anna University"
       ]
 
